@@ -1,2 +1,2 @@
 # cLab
-Overall Repository for Connections Lab
+Development branch
